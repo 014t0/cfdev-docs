@@ -10,3 +10,5 @@
     1. ```bash
         cf login --sso -a https://api.run.pivotal.io
         ```
+1. Apps Manager にアクセスする
+    1. https://console.run.pivotal.io/
